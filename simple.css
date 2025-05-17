@@ -14,3 +14,16 @@ tr{
 td{
     background-color: black;
 }
+select{
+    background-color: hotpink;
+}
+option{
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+}
+form{
+    box-sizing: border-box;
+    border-radius: 10px;
+}
