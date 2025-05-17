@@ -4,3 +4,13 @@ h1{
 p{
     background-color: green;
 }
+table{
+    padding: 0px;
+}
+tr{
+    border: none;
+    color: yellow;
+}
+td{
+    background-color: black;
+}
