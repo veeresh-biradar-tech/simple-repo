@@ -3,3 +3,7 @@ let b= 20
 
 console.log(a)
 console.log(b)
+
+// Arithmetic Operations 
+let result= a+ b
+console.log("Result =", result)
